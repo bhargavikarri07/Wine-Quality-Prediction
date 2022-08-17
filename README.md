@@ -25,3 +25,7 @@ For this project, I used Kaggle’s Red Wine Quality dataset to build various cl
 10.Sulfates
 
 11.Alcohol
+
+# The objective of this project is as follows:
+
+To experiment with different classification methods to see which yields the highest accuracy.
