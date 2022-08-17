@@ -4,24 +4,24 @@ Predicting the Quality of Red Wine using Machine Learning Algorithms for Regress
 
 For this project, I used Kaggle’s Red Wine Quality dataset to build various classification models to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10.The quality of a wine is determined by 11 input variables:
 
-Fixed acidity
+1.Fixed acidity
 
-Volatile acidity
+2.Volatile acidity
 
-Citric acid
+3.Citric acid
 
-Residual sugar
+4.Residual sugar
 
-Chlorides
+5.Chlorides
 
-Free sulfur dioxide
+6.Free sulfur dioxide
 
-Total sulfur dioxide
+7.Total sulfur dioxide
 
-Density
+8.Density
 
-pH
+9.pH
 
-Sulfates
+10.Sulfates
 
-Alcohol
+11.Alcohol
